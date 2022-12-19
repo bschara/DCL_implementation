@@ -1,8 +1,5 @@
 /*
-Title : Project1
-Course : CSIS216 Fall 22-23
-Date : 30 Oct  2022
-Author: Bchara Abou Jaffal  A2111752
+Author: Bchara Abou Jaffal  
 
 -- DCList.h --------------------------------------------------
 
